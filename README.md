@@ -2,36 +2,6 @@
 
 <head>
 
-<style>
-<!--
- /* Font Definitions */
-@font-face
-	{font-family:"Open Sans";
-	panose-1:2 11 6 6 3 5 4 2 2 4;}
-@font-face
-	{font-family:Courier;
-	panose-1:2 7 6 9 2 2 5 2 4 4;}
- /* Style Definitions */
-h1
-	{margin-right:0cm;
-	margin-left:0cm;
-	font-size:24pt;
-	font-family:"Times";
-	font-weight:bold;}
-h2
-	{margin-right:0cm;
-	margin-left:0cm;
-	font-size:18pt;
-	font-family:"Times";
-	font-weight:bold;}
-p
-	{margin-right:0cm;
-	margin-left:0cm;
-	font-size:12pt;
-	font-family:"Times";}
--->
-</style>
-
 </head>
 
 <body>
