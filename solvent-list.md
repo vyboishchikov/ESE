@@ -1,9 +1,5 @@
 <html>
 
-<head>
-<title>Solvent list </title>
-</head>
-
 <body>
 
 <div class=Section1>
