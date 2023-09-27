@@ -1,9 +1,4 @@
 <html>
-
-<head>
-
-</head>
-
 <body>
 
 <h1 align=center style='margin:0cm;text-align:center'>
@@ -15,16 +10,16 @@
 
 <p style='margin-bottom:0cm'><span style='font-family:"Open Sans"'>
 <i>uESE</i> is a simple, non-iterative COSMO-based method for evaluation of 
-<i>solvation free energies</i> of molecules and ions for arbitrary solvents. It 
-requires gas-phase CM5 atomic charges only. To obtain the solvation free energy, 
+<i>solvation free energies</i> of molecules and ions for
+<a href="https://github.com/vyboishchikov/ESE/blob/main/solvent-list.md"> arbitrary solvents</a>.
+It requires gas-phase CM5 atomic charges only. To obtain the solvation free energy, 
 the COSMO electrostatic term is supplemented by an extra correction that 
 describes the cavitation energy, van der Waals and specific interactions as well 
 as the hydrogen bonds. This term depends on atomic parameters that were adjusted 
 using a reference dataset.</span></p>
 
 <p style='margin-bottom:0cm'><span style='font-family:"Open Sans"'>
-The uESE solvation free energy can be calculated
-by the program uESE:</span></p>
+The uESE solvation free energy can be calculated by the program uESE:</span></p>
 
 <p style='margin:0cm'><span style='font-family:"Open Sans"'>
 <b>uESE.exe</b> &ndash; Windows version</span></p>
@@ -40,7 +35,8 @@ by the program uESE:</span></p>
 uESE.exe <i>input-file</i> -solvent <i>solvent</i></span></b></p>
 
 <p style='margin-top:12pt'><span style='font-family:"Open Sans"'>
-An example of an input file is available: <b>0216amm.CM5-charges</b>
+An example of an input file is
+<a href="https://github.com/vyboishchikov/ESE/blob/main/0216amm.CM5-charges"> available</a>.
 	
 <p style='margin-bottom:0cm'>
 <span style='font-family:"Open Sans"'>
