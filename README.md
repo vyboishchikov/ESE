@@ -22,10 +22,10 @@ using a reference dataset.</span></p>
 The uESE solvation free energy can be calculated by the program uESE:</span></p>
 
 <p style='margin:0cm'><span style='font-family:"Open Sans"'>
-<b>uESE.exe</b> &ndash; Windows version</span></p>
+<a href="https://github.com/vyboishchikov/ESE/blob/main/uESE.exe">uESE.exe</a> &ndash; Windows version</span></p>
 
 <p style='margin:0cm'><span style='font-family:"Open Sans"'>
-<b>uESE.x</b>&ndash; Linux version</span></p>
+<a href="https://github.com/vyboishchikov/ESE/blob/main/uESE.x">uESE.exe</a> &ndash; Linux version</span></p>
 
 <p style='margin:0cm'><span style='font-family:"Open Sans"'>
  which can be downloaded here free of charge. The uESE program can
