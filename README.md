@@ -1,7 +1,6 @@
 <html>
 
 <head>
-<title>uESE – universal Easy Solvation Energy Evaluation</title>
 
 <style>
 <!--
