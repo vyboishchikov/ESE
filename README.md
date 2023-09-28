@@ -38,13 +38,8 @@ uESE.exe <i>input-file</i> -solvent <i>solvent</i></span></b></p>
 An example of an input file is
 <a href="https://github.com/vyboishchikov/ESE/blob/main/input_example_NH3.CM5-charges"> available</a>.
 
-For converting a single-point Gaussian output to the charge input file the following shell script can be employed: https://github.com/vyboishchikov/ESE/blob/main/extract_CM5_charges.bash
-Note that you have need to run a single-point Gaussian job with the options <span style='font-family:Courier'>
-scf=tight pop=Hirshfeld IOP(6/79=11)</span> in order to get the CM5 charges in the output.
-
 <p style='margin-top:12pt'><span style='font-family:"Open Sans"'>
-For converting a single-point Gaussian output to the CM5 charge input file a <a href="https://github.com/vyboishchikov/ESE/blob/main/extract_CM5_charges.bash"> shell script</a> can be employed. Note that you have need to run a single-point Gaussian job with the options <span style='font-family:Courier'>scf=tight pop=Hirshfeld IOP(6/79=11)</span> in order to get the CM5 charges in the output.
-
+For converting a single-point Gaussian output to the CM5 charge input file a <a href="https://github.com/vyboishchikov/ESE/blob/main/extract_CM5_charges.bash"> shell script</a> can be employed. Note that you have need to run a single-point Gaussian job with the options <tt>scf=tight pop=Hirshfeld IOP(6/79=11)</tt> in order to get the CM5 charges in the output.
 
 <p style='margin-bottom:0cm'>
 <span style='font-family:"Open Sans"'>
