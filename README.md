@@ -31,8 +31,8 @@ The uESE solvation free energy can be calculated by the program uESE:</span></p>
  which can be downloaded here free of charge. The uESE program can
  be called from the command line as follows:</span></p>
 
-<p style='margin-top:6pt'><b><span style='font-family:Courier'>
-uESE.exe <i>input-file</i> -solvent <i>solvent</i></span></b></p>
+<p style='margin-top:6pt'><b>
+<tt>uESE.exe <i>input-file</i> -solvent <i>solvent</i></tt></b></p>
 
 <p style='margin-top:12pt'><span style='font-family:"Open Sans"'>
 An example of an input file is
