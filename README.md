@@ -71,6 +71,6 @@ Questions related to the uESE method and program should be addressed to
 <a href="mailto:vyboishchikov@googlemail.com">Sergei Vyboishchikov</a>.</p>
 
 <p style='margin-top:6pt'><span style='font-family:Open Sans'>
-A <a href="https://github.com/vyboishchikov/ESE-PM7">semi-empirical></a> version of the program based on <b>PM7</b> charges is also available.</p>
+A <a href="https://github.com/vyboishchikov/ESE-PM7">semi-empirical</a> version of the program based on <b>PM7</b> charges is also available.</p>
 </body>
 </html>
