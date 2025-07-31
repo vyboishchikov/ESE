@@ -18,7 +18,7 @@ The executables can be downloaded free of charge. The uESE program can be called
 uESE.exe input-file -solvent solvent
 ```
 
-An example of an input file is [available here](https://github.com/vyboishchikov/ESE/blob/main/input_example_NH3.CM5-charges).
+An example of an input file is [available here](https://github.com/vyboishchikov/ESE/blob/main/Input_example_NH3.CM5-charges).
 
 To convert a single-point Gaussian output to the CM5 charge input file, a [shell script](https://github.com/vyboishchikov/ESE/blob/main/extract_CM5_charges.bash) can be used.  
 **Note:** You need to run a single-point Gaussian job with the following options:
